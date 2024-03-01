@@ -1,5 +1,5 @@
 <center>
-<img src="./logo.png" alt="Logo" />
+<img src="./logo.png" alt="Movoyages" />
 <br />
 <span> Welcome to <b>Mo Ferry</b>, your passport to thrilling adventures around the world! 🌎✈️</span>
 </center>
