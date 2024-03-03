@@ -1,12 +1,12 @@
 <center>
 <img src="./logo.png" alt="Movoyages" />
 <br />
-<span> Welcome to <b>Mo Ferry</b>, your passport to thrilling adventures around the world! 🌎✈️</span>
+<span> Welcome to <b>Mo Voyages</b>, your passport to thrilling adventures around the world! 🌎✈️</span>
 </center>
 
 ## About Us
 
-At **Mo Ferry**, we believe that travel is more than just a journey; it's an experience that enriches your soul. Whether you're a seasoned globetrotter or a first-time explorer, we've got you covered. Here's what we offer:
+At **Mo Voyages**, we believe that travel is more than just a journey; it's an experience that enriches your soul. Whether you're a seasoned globetrotter or a first-time explorer, we've got you covered. Here's what we offer:
 
 - **Exotic Destinations**: From pristine beaches to rugged mountains, our curated destinations promise awe-inspiring beauty.
 
